@@ -11,3 +11,7 @@
 * 💻 I'm skilled at C++ and Kotlin
 * 👨‍💻 I'm a self-taught programmer
 * 🤖 I'm also interested in machine learning
+
+## 🙋‍♂️ Connect with me
+<a href="https://instagram.com/3hsan1njast?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-3hsan1njast-blueviolet"></a>
+<a href="https://www.linkedin.com/in/ehsan-shahoseini/"><img src="https://img.shields.io/badge/LinkedIn-ehsan--shahoseini-blue"></a>
