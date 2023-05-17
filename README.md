@@ -8,9 +8,9 @@
 </p>
 
 ## 📖 About me
-* 👦🏻 𝕀'𝕞 17 years old
-* 👨‍💻 𝕀'𝕞 a self-taught programmer
-* 💻 𝕀'𝕞 skilled at C++ and Kotlin
+* 👦🏻 🅸'🅼 17 years old
+* 👨‍💻 🅸'🅼 a self-taught programmer
+* 💻 🅸'🅼 skilled at C++ and Kotlin
 
 ## 🙋‍♂️ Connect with me
 <a href="https://instagram.com/3hsan1njast?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-3hsan1njast-blueviolet"></a>
