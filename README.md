@@ -8,8 +8,8 @@
 </p>
 
 ## 📖 About me
-* 💻 I'm skilled at C++ and Kotlin
 * 👨‍💻 I'm a self-taught programmer
+* 💻 I'm skilled at C++ and Kotlin
 * 🤖 I'm also interested in machine learning
 
 ## 🙋‍♂️ Connect with me
