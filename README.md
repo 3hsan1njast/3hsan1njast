@@ -6,7 +6,7 @@
 </p>
 
 ## 📖 About me
-I'm a self-taugh programmer who's interested in building cool stuff with computer.
+a self-taugh programmer who's interested in building cool stuff with computer.
 
 ## 🌐 Connect with me
 <a href="https://instagram.com/3hsan1njast?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-3hsan1njast-blueviolet"></a>
