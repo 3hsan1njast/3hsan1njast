@@ -5,9 +5,9 @@
   <a href="https://github.com/3hsan1njast"><img alt="Discord" src="https://img.shields.io/discord/1052605820308820040?label=DISCORD&style=for-the-badge"></a>
 </p>
 
-## 📖 About me
-a self-taugh programmer who's interested in building cool stuff <3
+<p align="center">a self-taugh programmer who's interested in building cool stuff <3 </p>
 
-## 🌐 Connect with me
+<p align="center">
 <a href="https://instagram.com/3hsan1njast?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-3hsan1njast-blueviolet"></a>
 <a href="https://www.linkedin.com/in/ehsan-shahoseini/"><img src="https://img.shields.io/badge/LinkedIn-ehsan--shahoseini-blue"></a>
+</p>
